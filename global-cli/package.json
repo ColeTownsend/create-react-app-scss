@@ -1,17 +1,17 @@
 {
-  "name": "create-react-app",
-  "version": "0.3.0",
+  "name": "create-react-app-scss-hmr",
+  "version": "0.1.0",
   "keywords": [
     "react"
   ],
-  "description": "Create React apps with no build configuration.",
-  "repository": "facebookincubator/create-react-app",
+  "description": "Create React apps with no build configuration. Has SCSS and hot module reloading.",
+  "repository": "https://github.com/ColeTownsend/create-react-app-scss-hmr",
   "license": "BSD-3-Clause",
   "engines": {
     "node": ">=4"
   },
   "bugs": {
-    "url": "https://github.com/facebookincubator/create-react-app/issues"
+    "url": "https://github.com/ColeTownsend/create-react-app-scss-hmr/issues"
   },
   "files": [
     "index.js"
