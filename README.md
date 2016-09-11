@@ -8,9 +8,9 @@ Create React apps with no build configuration.
 ## tl;dr
 
 ```sh
-npm install -g create-react-app
+npm install -g create-react-app-scss-hmr
 
-create-react-app my-app
+create-react-app-scss my-app
 cd my-app/
 npm start
 
@@ -28,7 +28,7 @@ When you’re ready to deploy to production, create a minified bundle with `npm 
 Install it once globally:
 
 ```sh
-npm install -g create-react-app
+npm install -g create-react-app-scss-hmr
 ```
 
 **You’ll need to have Node >= 4 on your machine**. We recommend to use Node >= 6 and npm >= 3 for faster installation speed and better disk usage. You can use [nvm](https://github.com/creationix/nvm#usage) to easily switch Node versions between different projects.
@@ -40,7 +40,7 @@ npm install -g create-react-app
 To create a new app, run:
 
 ```sh
-create-react-app my-app
+create-react-app-scss my-app
 cd my-app
 ```
 

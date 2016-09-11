@@ -1,6 +1,6 @@
 {
   "name": "create-react-app-scss-hmr",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "keywords": [
     "react"
   ],
@@ -17,7 +17,7 @@
     "index.js"
   ],
   "bin": {
-    "create-react-app": "./index.js"
+    "create-react-app-scss": "./index.js"
   },
   "dependencies": {
     "chalk": "^1.1.1",
